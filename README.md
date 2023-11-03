@@ -124,36 +124,99 @@ ketiga subentitas tersebut bersifar XOR dalan laporan kehadiran, jadi bisa ada d
   
 ## Screenshot Source & Penjelasannya
 
+Kelas Akun
+
+<img width="814" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/f95cba84-b6df-47be-9ab8-3ddbe6eb37cf">
+<img width="815" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/358a5010-e0b2-445d-a704-dda3bebe76d7">
+<img width="816" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/5b20974a-8994-4e40-994a-3e8842b9ab3e">
+<img width="797" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/90bcd434-8b4e-4062-8264-220515323e8e">
+
+File kelas untuk akun login manajer dan karyawan.
+
+
+
+Kelas Database
+
+<img width="817" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/e2e75948-4d8f-4ac7-9004-8ea5fb43baa3">
+<img width="808" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/2914ea9e-32a1-4bc5-b6a1-77e84d10ff1d">
+
+file database orm.
+
+
+
+Kelas Jadwal
+
+<img width="818" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/434cae9b-a94a-4ce0-aecf-a79c021182e4">
+<img width="813" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/70b331c8-39ee-44dc-8014-40abfc495a89">
+<img width="813" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/de206f1b-c9ab-4085-b705-d07221684ab8">
+<img width="814" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/d307d3ce-a1a2-4b31-8d87-976c488aeb78">
+
+File kelas untuk jadwal shift kerja.
+
+
+
+Kelas Karyawan
+
+<img width="815" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/f8c49059-103f-476c-9630-c6686546736c">
+<img width="812" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/832eed5d-7583-4370-b171-6f5c949c7b22">
+
+File kelas lanjutan untuk login registrasi karyawan.
+
+
+
+Kelas Kehadiran
+
+<img width="815" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/a81ad293-51ca-45e5-a7bd-a922d08a3156">
+<img width="812" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/01117c8b-3c3f-474d-8836-3277ccfd55b7">
+<img width="812" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/4b13aa0c-7a69-4ea3-a703-6ac04d4f5f88">
+
+File kelas untuk laporan kehadiran.
+
+
 ## Screenshot Output
 
 Halaman Login
 
 <img width="596" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/7e141b0d-c974-45bc-9f84-64e843b83416">
 
-g
 
 
 Halaman Register
 
-<img width="593" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/c096c9da-59f3-4eb0-a585-33bb732e772a">
+<img width="596" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/24c786d0-5a23-4bef-b229-3212532262ec">
 
-g
+
+
+Halaman Utama Karyawan
+
+<img width="596" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/c7c5bec8-967e-4a0c-8383-dabea2133c6f">
+
+
+
+Halaman Jadwal Shift Karyawan
+
+<img width="593" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/3d073e27-7ea2-40d4-bd68-62b629903797">
+
+
+
+Halaman Laporan Kehadiran Karyawan
+<img width="597" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/52cc0ab2-8623-451c-a354-aa406b6c3182">
+
 
 
 Halaman Utama Manajer
 
 <img width="594" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/13819f10-619b-427c-9640-a1afcaa56875">
 
-g
 
 
 Halaman Jadwal Shift Manajer
 
 <img width="593" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/5486c32b-7a1a-414d-828f-db11d0325caf">
-
-g
-
-
-Halaman Laporan Kehadiran
+<img width="595" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/28ec4039-d2b1-4419-bed9-23854d0d54fa">
 
 
+
+Halaman Laporan Kehadiran Manajer
+
+<img width="593" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/f98ba7ea-eb90-404a-878d-255f48f87dd1">
