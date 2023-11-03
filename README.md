@@ -9,6 +9,8 @@ Nama Kelompok:
 
 ## Flowchart
 
+![flowchart](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/eb1ce991-4dae-4232-a706-b2dab8a7c808)
+
 ## ERD
 
 ## Hierarki Class
