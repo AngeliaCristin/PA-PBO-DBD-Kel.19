@@ -1,5 +1,7 @@
 # PA-PBO-DBD-Kel.19
-praktikum akhir PBO dan DBD kel.19
+Nama Kelompok:
+- Angelia Cristin (2209116015)
+- Adham Khautsar Leswono (2209116021)
 
 ## Manajemen Shift Pada Restoran
 
