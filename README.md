@@ -3,7 +3,7 @@ Nama Kelompok:
 - Angelia Cristin (2209116015)
 - Adham Khautsar Leswono (2209116021)
 
-## Manajemen Shift Pada Restoran
+# Manajemen Shift Pada Restoran
 
 ## Deskripsi Project
 
