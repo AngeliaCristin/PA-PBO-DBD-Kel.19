@@ -125,3 +125,35 @@ ketiga subentitas tersebut bersifar XOR dalan laporan kehadiran, jadi bisa ada d
 ## Screenshot Source & Penjelasannya
 
 ## Screenshot Output
+
+Halaman Login
+
+<img width="596" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/7e141b0d-c974-45bc-9f84-64e843b83416">
+
+g
+
+
+Halaman Register
+
+<img width="593" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/c096c9da-59f3-4eb0-a585-33bb732e772a">
+
+g
+
+
+Halaman Utama Manajer
+
+<img width="594" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/13819f10-619b-427c-9640-a1afcaa56875">
+
+g
+
+
+Halaman Jadwal Shift Manajer
+
+<img width="593" alt="image" src="https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/127503774/5486c32b-7a1a-414d-828f-db11d0325caf">
+
+g
+
+
+Halaman Laporan Kehadiran
+
+
