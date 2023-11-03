@@ -6,7 +6,18 @@ Nama Kelompok:
 # Manajemen Shift Pada Restoran
 
 ## Deskripsi Project
-Project ini bertujuan untuk merancang aplikasi shift jadwal kerja karyawan berbasis website. Alat bantu desain sistem yang digunakan dalam menganalisis sistem adalah flowchart (DRAW IO). Rancangan sistem menggunakan alat bantu ERD (ORACLE SQL Developer Data Modeler). Project ini diimplementasikan dan diuji pada XAMPP MySQL localhost phpMyAdmin dan Apache NetBeans Java Maven. Dengan adanya sistem ini diharapkan dapat membantu manajer dalam mengelola jadwal shift dan absensi karyawan.
+Proyek ini bertujuan untuk menciptakan sebuah aplikasi berbasis web yang memungkinkan manajer restoran untuk mengatur jadwal kerja karyawan dengan lebih efisien. Dalam pengembangan aplikasi ini, alat bantu desain sistem seperti flowchart digunakan untuk merinci alur kerja dan proses yang ada dalam sistem. Selain itu, ERD (Entity Relationship Diagram) yang dibuat dengan bantuan ORACLE SQL Developer Data Modeler digunakan untuk merancang struktur data yang akan disimpan dalam database. Aplikasi ini diimplementasikan dan diuji menggunakan teknologi seperti XAMPP, MySQL, localhost, phpMyAdmin, dan Apache NetBeans dengan Java Maven. 
+
+Dengan adanya aplikasi ini, diharapkan manajer dapat dengan lebih efektif mengelola jadwal kerja karyawan dan memantau absensi atau kehadiran karyawan. Adapun model-model yang digunakan dalam pengembangan sistem ini adalah:
+
+1. **Logical ERD (Entity Relationship Diagram)**:
+   Logical ERD adalah representasi model data yang menggambarkan struktur data yang akan digunakan dalam database yg mencakup entitas (seperti jadwal_shift, akun (manajer dan karyawan) dan Laporan_kehadiran (hadir, izin, tanpa keterangan) serta atribut-atribut yang terkait dengan setiap entitas. Logical ERD membantu dalam pemahaman dan perencanaan dasar database, memastikan bahwa data yang diperlukan akan tersimpan dengan benar.
+
+2. **Relational ERD (Entity Relationship Diagram)**:
+   Relational ERD adalah model yang menggambarkan hubungan antar tabel dalam database yang menunjukkan bagaimana entitas terkait satu sama lain melalui kunci asing. Relational ERD membantu dalam merancang hubungan antar data, yang penting untuk menjaga konsistensi dan integritas data.
+
+3. **Hirarki Kelas (Class Hierarchy)**:
+   Hirarki kelas adalah struktur kelas yang digunakan dalam pengembangan perangkat lunak. hirarki kelas mencakup kelas-kelas yang mungkin ada dalam program, seperti Karyawan, Jadwal_Shift, dan Laporan_kehadiran. Setiap kelas memiliki metode dan atribut yang relevan. Ini membantu dalam merinci komponen-komponen program dan menjelaskan bagaimana kelas-kelas tersebut berinteraksi.
 
 ## Flowchart
 ![flowchart](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/a227074a-7d61-4660-9115-007f453589e8)
