@@ -100,11 +100,28 @@ Entitas laporan_kehadiran memiliki id_laporan sebagai primary key, dimana dalam 
 ### Hierarki Class Akun
 ![hierarki akun](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/2a0b5532-48ac-491d-856d-cdb50ebd5612)
 
+entitas akun merupakan sebuah supertype yang memiliki subtype manager dan karyawan.
+pada entitas ini manager dan karyawan memiliki atribut yang menjadi informasi yang lebih spesifik dari entis akun.
+akun sebagai supertype memiliki atribut:
+- username
+- password
+- gender
+- jabatan
 
+sedangkan manager dan karyawan sebagai subtype entitas akun harus memiliki atribut pembeda yang menjadi ciri spesifik yang membedakan kedua subtype. atribut prmbrda itu ada dalam subtype karyawan yaitu:
+- posisi, dimana atribut posisi ini hanya dimiliki oleh karyawan dan tidak dimiliki oleh entitas manager
+
+  
 ### Hierarki Class Laporan Kehadiran
 ![hierarki l kehadiran](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/5664eef3-aa79-4928-a136-d2c00664bc2e)
 
+laporan kehadiran memiliki hubungan arcs, dimana dalam hal ini laporan kehadiran merupakan entitas yang berelasi dengan tiga subentitas yaitu hadir, izin dan tanpas keterangan.
+ketiga subentitas tersebut bersifar XOR dalan laporan kehadiran, jadi bisa ada dan bisa tidak ada. misalnya apabila status kehadiran sudah diisi dengan hadir, maka izin dan tanpa keterangan tidak dapat lagi mengisi laporan kehadiran seorang karywana tersebut.
+- hadir, memiliki atribut absensi
+- izin memiliki atribut lama hari
+- tanpa keterangan memiliki atribut pesan peringatan
 
+  
 ## Screenshot Source & Penjelasannya
 
 ## Screenshot Output
