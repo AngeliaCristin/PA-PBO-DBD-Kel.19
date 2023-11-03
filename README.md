@@ -7,13 +7,20 @@ Nama Kelompok:
 
 ## Deskripsi Project
 
-## Flowchart
 
-![flowchart](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/eb1ce991-4dae-4232-a706-b2dab8a7c808)
+
+## Flowchart
+![flowchart](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/a227074a-7d61-4660-9115-007f453589e8)
 
 ## ERD
+### Logical ERD
+![ERD Logical](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/b781f92b-36b8-4ffa-b175-fe5f1aacfdcc)
+
+### Relational ERD
+![ERD Relational](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/07ac0912-23c2-4b97-90df-24d85bcf8fbd)
 
 ## Hierarki Class
+
 
 ## Screenshot Source
 
