@@ -20,8 +20,14 @@ Nama Kelompok:
 ![ERD Relational](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/07ac0912-23c2-4b97-90df-24d85bcf8fbd)
 
 ## Hierarki Class
+### Hierarki Class Akun
+![hierarki akun](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/2a0b5532-48ac-491d-856d-cdb50ebd5612)
 
 
-## Screenshot Source
+### Hierarki Class Laporan Kehadiran
+![hierarki l kehadiran](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/5664eef3-aa79-4928-a136-d2c00664bc2e)
+
+
+## Screenshot Source & Penjelasannya
 
 ## Screenshot Output
