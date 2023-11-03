@@ -6,8 +6,7 @@ Nama Kelompok:
 # Manajemen Shift Pada Restoran
 
 ## Deskripsi Project
-
-
+Project ini bertujuan untuk merancang aplikasi shift jadwal kerja karyawan berbasis website. Alat bantu desain sistem yang digunakan dalam menganalisis sistem adalah flowchart (DRAW IO). Rancangan sistem menggunakan alat bantu ERD (ORACLE SQL Developer Data Modeler). Project ini diimplementasikan dan diuji pada XAMPP MySQL localhost phpMyAdmin dan Apache NetBeans Java Maven. Dengan adanya sistem ini diharapkan dapat membantu manajer dalam mengelola jadwal shift dan absensi karyawan.
 
 ## Flowchart
 ![flowchart](https://github.com/AngeliaCristin/PA-PBO-DBD-Kel.19/assets/126650418/a227074a-7d61-4660-9115-007f453589e8)
